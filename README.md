@@ -7,16 +7,16 @@
 3. Confirm Purchase order via Mail.
 4. Confirmed Purchased Order.
 5. Create Invoice and show, search
-6. Create PO, Serach PO, Find PO.
+6. Create PO, Search PO, Find PO.
 7. Show Total Amount Reports.
 8. Multiple Report Genereation.
 9. Order Payment.
 10. Mail Micro Services.
 11. Report Micro Service.
-12. Item Uploading MicroService By Console Application.
+12. Item Uploading Micro Service By Console Application.
 
 
-## Technlogy
+## Technology
 1. Java8
 2. Spring Boot 2.5.5 and MVC
 3. Micro Service.
@@ -54,6 +54,6 @@ Entity
 6. ReportInfo
 7. ItemInfo
 8. MyMessage
-9. MYMessage in Mail MicroService
+9. MYMessage in Mail Micro Service
 
 
